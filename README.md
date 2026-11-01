@@ -1,37 +1,44 @@
 # Vicente Fredes
 
-Medical Student | Biomedical Research | Scientific Computing**
+**Medical Student | Biomedical Research | Scientific Computing**
 
-I'm a medical student at the University of Chile, passionate about understanding biological systems and developing technologies that advance medicine.
+I'm a medical student at the **University of Chile** interested in understanding biological systems and developing technologies that advance medicine.
 
-My interests lie at the intersection of **biomedical sciences, engineering, and computational research**, particularly in molecular biology, genetics, biotechnology, and biomedical innovation.
+My interests lie at the intersection of **biomedical sciences, engineering, and computation**, especially molecular biology, genetics, biotechnology, and the development of new biomedical technologies.
 
 ## Research Interests
 
-- **Biomedical Sciences:** Molecular biology, genetics, developmental biology, and regenerative medicine.
-- **Biomedical Engineering:** Medical technologies, translational research, and biotechnology.
-- **Scientific Computing:** Python programming, scientific visualization, data analysis, and computational modeling.
+- **Biomedical sciences:** Molecular biology, genetics, developmental biology, and regenerative medicine.
+- **Biomedical engineering:** Medical technologies, biotechnology, and translational research.
+- **Scientific computing:** Python, data analysis, scientific visualization, and computational modeling.
 
 ## Research & Projects
 
-### Developmental Bone Research
-Participated in research on fetal bone formation involving histological analysis and micro-computed tomography (micro-CT), presented at an academic anatomy congress.
+### Fetal Bone Development Research
 
-### Histogym | In Development
-An educational web platform project designed to support learning in histology and embryology through interactive challenges.
+Contributed to research on fetal humeral bone formation involving histological methods and micro-computed tomography (micro-CT). Presented the work at an academic anatomy congress in 2026.
 
-### Scientific Python Projects
-Previous programming projects exploring astronomical visualization and environmental science, currently being prepared for documentation and publication.
+### Histogym · In Development
+
+An educational web platform project for learning histology and embryology through interactive challenges, developed with academic collaboration.
+
+### Orion Stellar Motion · Preparing for Publication
+
+A Python project exploring how the apparent positions of stars in Orion change over time using proper-motion data and scientific visualization.
+
+### Environmental CO₂ Project · Preparing for Publication
+
+A previous scientific programming project involving environmental CO₂ data. Code and documentation are being organized for public release.
 
 ## Currently Learning
 
 - Python and scientific programming
-- Computational approaches to biological problems
+- Data analysis and computational approaches to biological problems
 - Research methodology and experimental techniques
 
 ## Long-Term Goals
 
-I aim to pursue interdisciplinary research integrating medicine, biotechnology, and engineering, with a particular interest in developing biomedical technologies and translating scientific discoveries into practical applications.
+I hope to pursue interdisciplinary research integrating medicine, biotechnology, and engineering, with a focus on turning scientific discoveries into useful biomedical technologies.
 
 ---
 
