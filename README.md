@@ -22,9 +22,9 @@ Contributed to research on fetal humeral bone formation involving histological m
 
 An educational web platform project for learning histology and embryology through interactive challenges, developed with academic collaboration.
 
-### Orion Stellar Motion · Preparing for Publication
+### [Orion Stellar Motion](https://github.com/vfredessresearch/orion-stellar-motion)
 
-A Python project exploring how the apparent positions of stars in Orion change over time using proper-motion data and scientific visualization.
+An educational Python visualization of stellar proper motion using a historical nine-star dataset. Includes modular code, reproducible data, tests, and documentation of the model's scientific limitations.
 
 ### Environmental CO₂ Project · Preparing for Publication
 
