@@ -1,0 +1,446 @@
+{
+  "review_date": "2026-11-23",
+  "files": [
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "LICENSE",
+      "git_blob_sha1": "7c48dd638a9ebed49a8ef0c0c4eea90105381cdf",
+      "mode": "100644",
+      "upstream_bytes": 1069,
+      "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/SKILL.md",
+      "git_blob_sha1": "d664c0038a9e9012d7e313efcb65fa1f228af4be",
+      "mode": "100644",
+      "upstream_bytes": 12574,
+      "sha256": "329849d503883f364dbc94c5ce9d46683b335d4c3599d8cffa89be2d5dad594a"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/evals/evals.json",
+      "git_blob_sha1": "42bc5007230da423254c455c35a7e66250e4b9cc",
+      "mode": "100644",
+      "upstream_bytes": 10441,
+      "sha256": "f6c28969b333377b2ee24aa122ed91455d52df893ee17e0f203fd0cb72b165d0"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/benchmarks.md",
+      "git_blob_sha1": "a67bf129e2bf501fd21f178d453b7e5bff5ad6c6",
+      "mode": "100644",
+      "upstream_bytes": 6578,
+      "sha256": "97591ba8256dd0486f494ef22c580f08445dda3d9deb58395d89c1b6435ae95d"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/deliverability.md",
+      "git_blob_sha1": "f5fd611f7aa0b7a7d9c4c66cae6c4d1810fbeb5d",
+      "mode": "100644",
+      "upstream_bytes": 8286,
+      "sha256": "539d55150c8be7b9cc893701d4f8c91837a471ab4d21fc3bd721f77bc2fc5edc"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/follow-up-sequences.md",
+      "git_blob_sha1": "6b71dac0ba7c7ab726cc01faee3ff9f29d248e93",
+      "mode": "100644",
+      "upstream_bytes": 3947,
+      "sha256": "a72408232976f7af74a3ea4bc03f93bf34e7dc44fb7dabd2f1f56a24b8a3f664"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/frameworks.md",
+      "git_blob_sha1": "1cddb6b377af6a5978b30f7136c6e07b9aeb1c52",
+      "mode": "100644",
+      "upstream_bytes": 5778,
+      "sha256": "15f24de52a2be96fc051fa867ce2a626e79a4433a111a894e68e9f4cf1e9fb3b"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/linkedin-outreach.md",
+      "git_blob_sha1": "e084dae8a50654132d355e3b6c7e918cee0f21fe",
+      "mode": "100644",
+      "upstream_bytes": 5750,
+      "sha256": "c95ba4c785bafccfffd98c6d850c20ea674cac1b18fa817d3f4dce23ed159ba5"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/multichannel-cadence.md",
+      "git_blob_sha1": "390f93191eb18a5ba5caea78eab9aa80a86acfd8",
+      "mode": "100644",
+      "upstream_bytes": 5481,
+      "sha256": "3189071b3afb7dfbd480d2e5c9835867e757fa1cad783b2e7c3f63da3ffe1e76"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/outbound-plays.md",
+      "git_blob_sha1": "362a7a0c41b365725e6a69a7266f12b799861927",
+      "mode": "100644",
+      "upstream_bytes": 6113,
+      "sha256": "d48f43c90b811b1124f2cd23447854a62196c9fce45248662eaede722542f44f"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/personalization.md",
+      "git_blob_sha1": "37c65d39ebfefead03c0c9b0aa06bee86eafe6ee",
+      "mode": "100644",
+      "upstream_bytes": 5238,
+      "sha256": "9d5368645025aa632316b3c7de999762e2f8743fb54aae0b59adfa011b212c5a"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/reply-handling.md",
+      "git_blob_sha1": "ccbbe415ff9a7583694184b42408a9411bcbe86b",
+      "mode": "100644",
+      "upstream_bytes": 4648,
+      "sha256": "fa2a5e020a0206ffba29093b54bd7977ebe6d3e34a6ae323b34ce86ce1604da4"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cold-email/references/subject-lines.md",
+      "git_blob_sha1": "3a2cc592d32e00b1bd368446979539853be87066",
+      "mode": "100644",
+      "upstream_bytes": 3015,
+      "sha256": "f71f31b1151d972bb19ff03791ffb9d24941a8ccea8b913e5a5c7aca439b45ce"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cro/SKILL.md",
+      "git_blob_sha1": "194df7e3b26a7ce523739053c06605cc22622a14",
+      "mode": "100644",
+      "upstream_bytes": 6815,
+      "sha256": "0f8588aba125de102498ca3bbaa0151c8ebffa0a7ad85c14d992ef16db02fb2d"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cro/evals/evals.json",
+      "git_blob_sha1": "a7393125c1cc757e111cd0d2e29ff7f5a071de31",
+      "mode": "100644",
+      "upstream_bytes": 7656,
+      "sha256": "62f3003602836e2b49d797ca582e7703629a6b07b131eb77b51b2bb39fe65775"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cro/references/experiments.md",
+      "git_blob_sha1": "abc31c716ec966c9c6c9a12ca3e8b076ce3ea320",
+      "mode": "100644",
+      "upstream_bytes": 7850,
+      "sha256": "bbcc356c0af36cfaa4556bf9e929deac30c65cafb37f909d7c51d4777fe254ca"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/cro/references/form.md",
+      "git_blob_sha1": "56f6e03e28f3d6193316552ca840d26b66a89c79",
+      "mode": "100644",
+      "upstream_bytes": 10332,
+      "sha256": "49b8f29b3da1ae6510572288cad3eb1f3d43a969373443be98b38639746587e6"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/SKILL.md",
+      "git_blob_sha1": "4733063b1b44e15f3ac32dde2a8103ed0e5058a6",
+      "mode": "100644",
+      "upstream_bytes": 9593,
+      "sha256": "d5de835c90e65c9fc117508760ca6df5d8d0ab546ffe6933beab089c944ba71c"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/evals/evals.json",
+      "git_blob_sha1": "445e012a1007dc3a22af5e794cdc95e105f43b74",
+      "mode": "100644",
+      "upstream_bytes": 3190,
+      "sha256": "abfd1e7a6040a7bd09440d2cda7410a20e20a67a40cb562953d62a0f1c467ece"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/bonus-stacking.md",
+      "git_blob_sha1": "17431d82fb9fef34eaa77ef51166450ce9aa777a",
+      "mode": "100644",
+      "upstream_bytes": 7758,
+      "sha256": "872abbfd14501fd0b097f5ae62b9931571152d43b6690b57df5e65ab48aedfbd"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/examples.md",
+      "git_blob_sha1": "3039a346bdeb7af9a75a62ce3129a30263db4959",
+      "mode": "100644",
+      "upstream_bytes": 10203,
+      "sha256": "f1033e181845effe8c659800aaf68523686be6bdcb1c5e256c87008e8ea638af"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/guarantee-design.md",
+      "git_blob_sha1": "8fdc95d75d659b85f01f566cc63f0a160c2317a3",
+      "mode": "100644",
+      "upstream_bytes": 8173,
+      "sha256": "daa421558b664fe5a335c6cb764d47755799662c79606551a848bba864255c29"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/offer-anatomy.md",
+      "git_blob_sha1": "cd06682ea995a44f704fb728412289c9ec5ef4d2",
+      "mode": "100644",
+      "upstream_bytes": 8857,
+      "sha256": "0810080788bedc9b40dc0aba53109991aa816397f4b45e813289985eb8a64cad"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/offer-formats.md",
+      "git_blob_sha1": "2a8d25e212146f4235d6aa3e6455f2bbb9263124",
+      "mode": "100644",
+      "upstream_bytes": 10690,
+      "sha256": "32988e0b187e5ef6cf6a8fa86105612852cbc8edc91eebab098d4da50464aadf"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/saas-offers.md",
+      "git_blob_sha1": "78ea55c07469d2491051d00ebcaf8fbb93a7b707",
+      "mode": "100644",
+      "upstream_bytes": 7869,
+      "sha256": "1b21638f0fd2e623f638c13f4b82e2d8c8ecb79d1324f0183f8322db5f5ceea3"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/scarcity-urgency.md",
+      "git_blob_sha1": "a9dfb2dd89849f1901ad00cbb38140eb58ea0e27",
+      "mode": "100644",
+      "upstream_bytes": 7106,
+      "sha256": "4abe51a54188e6c93feb6cface92abc5c8e03212b8ade5bd9366ed159ad3f8f8"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/offers/references/value-equation.md",
+      "git_blob_sha1": "7795bb8f77bff7a639f5795e06c911c74defa749",
+      "mode": "100644",
+      "upstream_bytes": 7883,
+      "sha256": "4610ff358be2be643e7783884e628f01e1e0c56915a7924e5ccb92c096121eff"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/SKILL.md",
+      "git_blob_sha1": "e7b5ea756c520b2e8fe015a2d76edefa62b8e824",
+      "mode": "100644",
+      "upstream_bytes": 19962,
+      "sha256": "dd9343bdcc3dadd059c4155e818778377bd62f3e704322d1073d9f06656d4315"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/evals/evals.json",
+      "git_blob_sha1": "73abf0482f00e727f8dd58c3f5a65e2d34c270d6",
+      "mode": "100644",
+      "upstream_bytes": 19938,
+      "sha256": "c9e5a095574f57c96e2bd643cba7e404594dc036b020b18521712b4c38675167"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/account-research.md",
+      "git_blob_sha1": "b91594be86394ff2c94b09335603e44f2f9b0166",
+      "mode": "100644",
+      "upstream_bytes": 3771,
+      "sha256": "cf09a7f41b4963d919dcdf96d659fe898a1ade5328ab481864419f6dd1d4bba9"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/b2b-prospecting.md",
+      "git_blob_sha1": "2875625fc235de94a1b8569362722d6a768b4673",
+      "mode": "100644",
+      "upstream_bytes": 4978,
+      "sha256": "b7a05da9d1584cc8d21432a43fe1ba802c4f9a6c601e3885d4117cc9d4d52f37"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/compliance.md",
+      "git_blob_sha1": "78d76086b5caf46b9e808b526a6bbeb8e379784c",
+      "mode": "100644",
+      "upstream_bytes": 11906,
+      "sha256": "ef2f869b4f1d43c0f1eb6cd63b069f7a975b732cfe607ad68378fb5353239556"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/data-sources.md",
+      "git_blob_sha1": "e5bdb581135c6f7f15fdc74f653cb8307dc0e52e",
+      "mode": "100644",
+      "upstream_bytes": 13456,
+      "sha256": "2262f2172c285b98b1df73974d4cb441c8f835645b4d7ee21a340ff5df2a1182"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/demand-signals.md",
+      "git_blob_sha1": "7f2f668a880b00e21a2c949ea4e041408150d0a2",
+      "mode": "100644",
+      "upstream_bytes": 10185,
+      "sha256": "489b8fb96a828578b6812bfabfbba8ce86d07545b21716a873501ba4d464f4ee"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/enrichment-playbook.md",
+      "git_blob_sha1": "f1a52e35b8d7149c92f622baac6ad557da02e8af",
+      "mode": "100644",
+      "upstream_bytes": 5290,
+      "sha256": "dcdb131d83e0a010fdbb572c828b621e9db10f96b6fafd891499683ed9a4a63c"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/local-prospecting.md",
+      "git_blob_sha1": "a1bae4174d3f05bc7d1a0d80bcc08bd847647dbb",
+      "mode": "100644",
+      "upstream_bytes": 8150,
+      "sha256": "1dd71471a3413d5b0a9d230b1e42ca95469c617285bf7e2abdfa463428367fc3"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/saas-prospecting.md",
+      "git_blob_sha1": "0a545f17f261a9a5da58b42046b5ccaddf5ee1f8",
+      "mode": "100644",
+      "upstream_bytes": 6045,
+      "sha256": "18be53f055f3f8a2ca647dccc8d8d8d177a0df5820193463542f87fa4eeafcf8"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/signal-plays.md",
+      "git_blob_sha1": "c406baee2c434a29b0ec12f58f118ae3e6c60be6",
+      "mode": "100644",
+      "upstream_bytes": 19362,
+      "sha256": "e5a3a32ab129bb6330eb8fb22a685b4e5d607f1d3c89a49fb83f4c31914be3d6"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/prospecting/references/sourcing-and-enrichment.md",
+      "git_blob_sha1": "508145265385b2769bab990dae55458933deabe3",
+      "mode": "100644",
+      "upstream_bytes": 6740,
+      "sha256": "d7f47cf69ee1e78bb21c50f2b0050460899f8e9e001c40261e08e38dd6fa9fbc"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/SKILL.md",
+      "git_blob_sha1": "9bd5c6e78c8656cf900f69d302035cb5f8f0ef97",
+      "mode": "100644",
+      "upstream_bytes": 20947,
+      "sha256": "6869bac9c9f5e404bc01de85800f8d90ccfb2c06d25fb2bafe1d3d4f2e61fc36"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/evals/evals.json",
+      "git_blob_sha1": "897fbd6d8269e22bed221f28873ceb78a691e428",
+      "mode": "100644",
+      "upstream_bytes": 11688,
+      "sha256": "5a051cfa1225515da3176a93ddb907b8efd091f9c4a485ebcdb867eea1cb7bf0"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/cold-call-scripts.md",
+      "git_blob_sha1": "ada3a76cc31ab0bc48a187e15264ceaf3d8aa83b",
+      "mode": "100644",
+      "upstream_bytes": 4133,
+      "sha256": "cc4e3248070804539f8c1de01fd63918d8e40a6ad858dea2a519d50a060e268f"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/deck-frameworks.md",
+      "git_blob_sha1": "218c0fe188d949c3f3b5cc49ac9112351d4da04e",
+      "mode": "100644",
+      "upstream_bytes": 7730,
+      "sha256": "265eea6c1b358d10f2dd22fd987789a9d115c14d30bf77a9086734ac60659336"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/demo-scripts.md",
+      "git_blob_sha1": "e9dd0691b430bd7dbef30b18f6fb32afe39c1342",
+      "mode": "100644",
+      "upstream_bytes": 11769,
+      "sha256": "505616ebf73d30fe84a844540727ab8f3aeae29ebcda8c8ace28a18ada003da3"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/objection-library.md",
+      "git_blob_sha1": "22bcbc6939e5510e4ac76841e30e00f777b10b60",
+      "mode": "100644",
+      "upstream_bytes": 13393,
+      "sha256": "e0cdfeffc41afbdbe2c014bcd9b3c024318eac9bd23159e871ec796aba29e0b2"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/one-pager-templates.md",
+      "git_blob_sha1": "4902cdc9f806c5d4d4ebcc85b85fdc990fd5600f",
+      "mode": "100644",
+      "upstream_bytes": 5823,
+      "sha256": "2197326faff4ede03fb40e332e9c80a4e084d8efd48c74df8720d70817ac5ded"
+    },
+    {
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2b400eec1e7e1cec76245a715d0b0d4fd2a9c1",
+      "path": "skills/sales-enablement/references/win-loss-analysis.md",
+      "git_blob_sha1": "7c5e92225828e025dcf5cd7518eadcbc64a0fcbf",
+      "mode": "100644",
+      "upstream_bytes": 4299,
+      "sha256": "f6f34c503f4cc506a8f24bfea6e75b260e3eff661da206399e162960141f090a"
+    },
+    {
+      "repository": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "path": "skills/frontend-design/LICENSE.txt",
+      "git_blob_sha1": "f433b1a53f5b830a205fd2df78e2b34974656c7b",
+      "mode": "100644",
+      "upstream_bytes": 10174,
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "repository": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "path": "skills/frontend-design/SKILL.md",
+      "git_blob_sha1": "a5333457c414d20d625f307df945842c0952ecc3",
+      "mode": "100644",
+      "upstream_bytes": 9390,
+      "sha256": "d91970639e9f5c37682ac7ab60094d35f1c7c1f38d731bd56396563aee10c1d3"
+    }
+  ]
+}
