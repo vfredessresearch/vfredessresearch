@@ -1,0 +1,78 @@
+{
+  "review_date": "2026-11-23",
+  "repository": "coreyhaines31/marketingskills",
+  "commit": "8fd2fcade2fd6629026e9dfe6d133b55b36968b9",
+  "skill_version": "2.2.10",
+  "files": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "upstream_bytes": 1069,
+      "git_blob_sha1": "7c48dd638a9ebed49a8ef0c0c4eea90105381cdf",
+      "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591"
+    },
+    {
+      "path": "skills/seo-audit/SKILL.md",
+      "mode": "100644",
+      "upstream_bytes": 19593,
+      "git_blob_sha1": "8e969c81b41f5ebc820de2ecd51a7c8ab85847c0",
+      "sha256": "91bad6e5a85a8fef21c8d03876978e4e4e15c23a0785bb7471100d9f3a4beea8"
+    },
+    {
+      "path": "skills/seo-audit/evals/evals.json",
+      "mode": "100644",
+      "upstream_bytes": 15717,
+      "git_blob_sha1": "d569ae70cf4746f7a27e7808abbaea4878c27fd7",
+      "sha256": "1524e98916ab53abb894fb80827a8d0e1815041adca2ee2023b89916d68f22b2"
+    },
+    {
+      "path": "skills/seo-audit/references/ai-writing-detection.md",
+      "mode": "100644",
+      "upstream_bytes": 6528,
+      "git_blob_sha1": "cb67ece4135f4153575bbbdfbf722364babff61d",
+      "sha256": "f1e273f56ce7e2215ff218bf903680ddcec0fd026ab90c3ebfb3439ed0edfaa4"
+    },
+    {
+      "path": "skills/seo-audit/references/international-seo.md",
+      "mode": "100644",
+      "upstream_bytes": 14898,
+      "git_blob_sha1": "35a7ad2aeadcbef2541563b0077d5f717e4b147d",
+      "sha256": "0603022cca968acf7889fc224221aa0e70955ba64355bc18b06f7e86b32f45e5"
+    },
+    {
+      "path": "skills/seo-audit/references/local-seo-pages-and-measurement.md",
+      "mode": "100644",
+      "upstream_bytes": 4036,
+      "git_blob_sha1": "d49f0443e091c70e4778a4e33030a33d18a361a4",
+      "sha256": "20607ef91c4b8b37346f42130a6f51ed4ce64dc2731b6e1328b5b14f16917fe3"
+    },
+    {
+      "path": "skills/seo-audit/references/local-seo-profile-and-citations.md",
+      "mode": "100644",
+      "upstream_bytes": 3971,
+      "git_blob_sha1": "d34b7e043cb7c4d2da114f04e986bd476a22d0c6",
+      "sha256": "83b1b63eb6083e7aab1f56c4928335ea2a235e837861a9e9e8043b6af162a1f3"
+    },
+    {
+      "path": "skills/seo-audit/references/local-seo.md",
+      "mode": "100644",
+      "upstream_bytes": 7249,
+      "git_blob_sha1": "c2636ada98809d6ed8db588040817adc332add5e",
+      "sha256": "d2666d9c225bc36f9737ce612894abbe7e263b5974e2db7c1efc50f6010bb376"
+    },
+    {
+      "path": "skills/seo-audit/references/rankings-push.md",
+      "mode": "100644",
+      "upstream_bytes": 4888,
+      "git_blob_sha1": "3d074afe1278ffcb34407b3fa37f8082bad6efab",
+      "sha256": "1b131c2f93a32d2c990aa7d4e7df8f445d292bfedba3822d6abcfcfdfe203ec8"
+    },
+    {
+      "path": "skills/seo-audit/references/title-tags.md",
+      "mode": "100644",
+      "upstream_bytes": 5533,
+      "git_blob_sha1": "5d5eac8002179ac5288f3b4bbd2aa35b3a409a42",
+      "sha256": "c40b3c6af3600ca15670db8eb81000c7ca6fa25265a6550ccc630f53db3fcf51"
+    }
+  ]
+}

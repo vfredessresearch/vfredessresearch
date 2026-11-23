@@ -2,6 +2,8 @@
 
 Fecha: 23-11-2026. Destino de las adaptaciones: FRS Solutions SpA.
 
+Este informe corresponde a las seis skills iniciales. La séptima, frs-seo, tiene una [revisión adicional](SEO.md) y [manifiesto propio](fuentes-seo.json).
+
 ## Resultado
 
 No se detectaron indicios de malware, extracción de credenciales, persistencia oculta ni instrucciones para desactivar controles en el conjunto examinado. Esto es una conclusión de revisión estática, no una garantía de ausencia de contenido malicioso ni una certificación de seguridad.

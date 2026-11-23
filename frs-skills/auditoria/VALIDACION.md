@@ -2,6 +2,8 @@
 
 Fecha: 23-11-2026. Paquete: 1.0.0.
 
+Este documento conserva los resultados de las seis skills iniciales. La incorporación frs-seo del paquete 1.1.0 se valida por separado en [SEO.md](SEO.md).
+
 ## Comprobación estructural
 
 Se ejecutó quick_validate.py del skill-creator sobre las seis carpetas con PyYAML 6.0.3 en una carpeta temporal. Comprueba frontmatter YAML, nombres, campos permitidos y ausencia de marcadores de plantilla sin resolver. Las seis skills pasaron.

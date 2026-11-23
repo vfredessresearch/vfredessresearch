@@ -11,6 +11,10 @@ Licencia: MIT; texto y aviso de copyright originales en [licenses/marketingskill
 
 Se adaptaron la investigación con evidencia, claridad de alcance, redacción relevante, propuestas y revisión del recorrido de conversión. Se eliminaron dependencias de proveedores, recomendaciones de seguimiento de visitantes, automatización invasiva, supuestos comerciales y ampliaciones de autoridad.
 
+### Incorporación de SEO
+
+Fuente adicional: skills/seo-audit/ completa, versión 2.2.10, commit 8fd2fcade2fd6629026e9dfe6d133b55b36968b9 del mismo repositorio, con la misma licencia MIT. La adaptación frs-seo modifica de forma sustancial las reglas de indexación, idiomas, evidencia, autoridad de ejecución y herramientas para el contexto de FRS. Se conserva la licencia original ya indicada; el [informe SEO](auditoria/SEO.md) documenta cambios y alcance.
+
 ## Anthropic — frontend-design
 
 Repositorio: https://github.com/anthropics/skills
